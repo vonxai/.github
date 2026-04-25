@@ -1,4 +1,4 @@
 # [vonxai inc.](https://www.vonxai.co.jp/)
 
-![Logo](https://www.vonxai.co.jp/assets/images/logo.svg)
+<img src="https://www.vonxai.co.jp/assets/images/logo.svg" height="200px" />
 
